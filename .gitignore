@@ -56,6 +56,11 @@ PPO/*.mdb.meta
 PPO/sysinfo.txt
 
 # Builds
+godot/.godot/
+.venv/
+__pycache__/
+runs/
+.pytest_cache/
 *.apk
 *.aab
 *.unitypackage

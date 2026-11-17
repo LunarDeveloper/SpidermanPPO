@@ -1,0 +1,6 @@
+# Install CUDA-enabled torch first using https://pytorch.org/get-started/locally/
+torch>=2.7,<3
+numpy>=2,<3
+gymnasium>=1.0,<2
+stable-baselines3>=2.6,<3
+tensorboard>=2.19,<3
